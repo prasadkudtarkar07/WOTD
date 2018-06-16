@@ -1,0 +1,17 @@
+{
+  "name": "word-app",
+  "version": "1.0.0",
+  "description": "A node app for word",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pk",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.1.5",
+    "node-datetime": "^2.0.6"
+  }
+}
